@@ -40,3 +40,4 @@ jobs:
           docker build -t ghcr.io/sc1341/ducks-service:latest --file Dockerfile .  
           docker push ghcr.io/sc1341/ducks-service:latest 
 
+
